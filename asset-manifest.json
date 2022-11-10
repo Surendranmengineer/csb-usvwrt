@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-usvwrt/static/css/main.9b1431d8.chunk.css",
+    "main.js": "https://.github.io/csb-usvwrt/static/js/main.58fd1ddc.chunk.js",
+    "main.js.map": "https://.github.io/csb-usvwrt/static/js/main.58fd1ddc.chunk.js.map",
+    "runtime~main.js": "https://.github.io/csb-usvwrt/static/js/runtime~main.66c727a0.js",
+    "runtime~main.js.map": "https://.github.io/csb-usvwrt/static/js/runtime~main.66c727a0.js.map",
+    "static/css/2.3509ec82.chunk.css": "https://.github.io/csb-usvwrt/static/css/2.3509ec82.chunk.css",
+    "static/js/2.24aaf4f7.chunk.js": "https://.github.io/csb-usvwrt/static/js/2.24aaf4f7.chunk.js",
+    "static/js/2.24aaf4f7.chunk.js.map": "https://.github.io/csb-usvwrt/static/js/2.24aaf4f7.chunk.js.map",
+    "index.html": "https://.github.io/csb-usvwrt/index.html",
+    "precache-manifest.2c95e84b7faac14c62f47a829ab723ff.js": "https://.github.io/csb-usvwrt/precache-manifest.2c95e84b7faac14c62f47a829ab723ff.js",
+    "service-worker.js": "https://.github.io/csb-usvwrt/service-worker.js",
+    "static/css/2.3509ec82.chunk.css.map": "https://.github.io/csb-usvwrt/static/css/2.3509ec82.chunk.css.map",
+    "static/css/main.9b1431d8.chunk.css.map": "https://.github.io/csb-usvwrt/static/css/main.9b1431d8.chunk.css.map"
+  }
+}
